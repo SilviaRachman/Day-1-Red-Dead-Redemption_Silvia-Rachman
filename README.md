@@ -1,10 +1,11 @@
 # Day-1-Red-Dead-Redemption_Silvia-Rachman
+
 Nama: Silvia Rachman
-#1. Deskripsi Singkat Repository
+*1. Deskripsi Singkat Repository*
 
 Repository atau repo adalah tempat penyimpanan proyek secara online di GitHub. Di dalamnya, kita bisa menyimpan berbagai file sekaligus melihat riwayat perubahan yang pernah dilakukan. Repository ini dibuat khusus untuk menyimpan dokumentasi kegiatan Workshop Day 1.
 
-#2. Tujuan atau Kegunaan Repository
+*2. Tujuan atau Kegunaan Repository*
 
 Repository ini memiliki beberapa kegunaan, yaitu:
 
@@ -12,7 +13,7 @@ Repository ini memiliki beberapa kegunaan, yaitu:
 - Mencatat perubahan: Setiap perubahan pada file tersimpan, sehingga kita bisa melihat riwayatnya atau kembali ke versi sebelumnya.
 - Memudahkan kolaborasi: Repository bisa dibagikan melalui link sehingga anggota tim maupun orang lain dapat mengakses dan bekerja sama dalam proyek.
 
-#3. Informasi Kegiatan Workshop yang Didokumentasikan
+*3. Informasi Kegiatan Workshop yang Didokumentasikan*
 
 Hari/Tanggal: 7 November 2026
 
